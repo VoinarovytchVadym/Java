@@ -1,4 +1,4 @@
-package com.educational.ztu;
+package com.education.ztu;
 
 import java.util.Scanner;
 

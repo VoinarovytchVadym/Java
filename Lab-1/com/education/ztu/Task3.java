@@ -1,4 +1,4 @@
-package com.educational.ztu;
+package com.education.ztu;
 
 /**
  * task_3
@@ -22,5 +22,11 @@ public class Task3 {
         }
 
         System.out.println(result);
+    }
+}
+
+class MainCaller {
+    public static void main(String[] args) {
+        Task3.main(new String[]{"2", "3", "5", "8"});
     }
 }
