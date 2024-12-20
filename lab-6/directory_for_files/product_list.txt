@@ -1,0 +1,3 @@
+Product 1: Laptop
+Product 2: Smartphone
+Product 3: Tablet

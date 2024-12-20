@@ -1,0 +1,3 @@
+Purchase Report:
+Product{name='Laptop', price=1200.5}
+Product{name='Smartphone', price=800.0}
